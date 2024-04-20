@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">TDE-Image-Processing-Android</string>
+    <string name="image">Imagem</string>
+    <string name="gray_tons">Tom de cinza</string>
+    <string name="preview">preview</string>
+    <string name="brightness">Brilho</string>
+    <string name="contrast">Contraste</string>
+    <string name="sepia">Sépia</string>
+    <string name="negative">Negativo</string>
+    <string name="save">Salvar</string>
+</resources>
